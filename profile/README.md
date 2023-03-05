@@ -1,9 +1,8 @@
 ## Home 👋
 
-<!--
 
 TODO:
 
 🙋‍♀️ A short introduction
-🌈 Contribution guidelines?
--->
+🌈 Contribution guidelines
+
